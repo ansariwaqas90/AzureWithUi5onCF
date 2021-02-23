@@ -7,7 +7,7 @@
 						<Button enabled="true" icon="sap-icon://hint" press="openGitHub" />
 					</headerContent>
 					<content>
-						<Image src="css/azure-cf-ui5.png"></Image>
+						<Image src="css/azure-cf-ui5.png"> </Image>
 					</content>
 				</Page>
 			</pages>
